@@ -3,4 +3,6 @@
 
 
 ![](https://github.com/Yemeksepeti-Mobil-Android-Bootcamp/android-viewpager-MertDemir-41/blob/main/screenshots/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
+![](https://github.com/Yemeksepeti-Mobil-Android-Bootcamp/android-viewpager-MertDemir-41/blob/main/screenshots/Ekran%20Al%C4%B1nt%C4%B1s%C4%B12.PNG)
+![](https://github.com/Yemeksepeti-Mobil-Android-Bootcamp/android-viewpager-MertDemir-41/blob/main/screenshots/Ekran%20Al%C4%B1nt%C4%B1s%C4%B13.PNG)
 
